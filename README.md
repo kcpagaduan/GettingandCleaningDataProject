@@ -11,6 +11,7 @@ The R script called run_analysis.R should be able to do the following:
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+
 ## The R script run_analysis.R
 
 This file provides an explanation on the scrpits used to perform the analysis and come up with a tidy data set.
